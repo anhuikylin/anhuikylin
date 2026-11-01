@@ -16,7 +16,7 @@
 
 I'm **Fei Liang (梁飞)**, a plant science researcher at **Henan University**. I work at the intersection of maize genetics, multi-omics, and scientific software.
 
-My research interests include **stress adaptation**, **gene discovery**, and **photosynthesis**. I build open-source tools that turn complex biological data into interpretable results.
+My research interests include **stress adaptation** and **gene discovery**. I build open-source tools that turn complex biological data into interpretable results.
 
 ### 02 / SELECTED WORK
 
