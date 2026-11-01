@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://orcid.org/0009-0002-8775-2565"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0002--8775--2565-111827?style=flat-square&amp;logo=orcid&amp;logoColor=A6CE39" /></a>
   <a href="mailto:fyliangfei@163.com"><img alt="Email" src="https://img.shields.io/badge/CONTACT-Email-111827?style=flat-square&amp;logo=gmail&amp;logoColor=50E7DE" /></a>
   <a href="https://anhuikylin.github.io/ProtVis-cookbook/"><img alt="ProtVis documentation" src="https://img.shields.io/badge/EXPLORE-ProtVis_Cookbook-111827?style=flat-square&amp;logo=readthedocs&amp;logoColor=B18AFF" /></a>
 </p>
@@ -92,6 +91,5 @@ Genome exploration, omics analysis, and computational methods across the omixcor
 <b>Open science. Clear questions. Reproducible discoveries.</b><br/>
 <sub>欢迎交流植物组学、科研软件与合作研究。</sub><br/><br/>
 <a href="mailto:fyliangfei@163.com">Email</a> &nbsp; / &nbsp;
-<a href="https://orcid.org/0009-0002-8775-2565">ORCID</a> &nbsp; / &nbsp;
 <a href="https://github.com/anhuikylin?tab=repositories">Repositories</a>
 </p>
