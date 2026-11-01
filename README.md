@@ -44,7 +44,7 @@ Practical documentation and illustrated workflows for learning and using ProtVis
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 #### 🌿 [ProtVis-Omics](https://github.com/anhuikylin/ProtVis-Omics)
 **Biology across molecular layers.**
@@ -54,16 +54,7 @@ Analysis scripts and research resources for transcriptomics and metabolomics in 
 `Transcriptomics` · `Metabolomics`
 
 </td>
-<td width="50%" valign="top">
 
-#### 🔭 [More open-source work](https://github.com/omixcore)
-**Explore the wider toolbox.**
-
-Genome exploration, omics analysis, and computational methods across the omixcore repositories.
-
-[PhytoScope](https://github.com/omixcore/phytoscope) · [OmicsTopology](https://github.com/omixcore/OmicsTopology)
-
-</td>
 </tr>
 </table>
 
