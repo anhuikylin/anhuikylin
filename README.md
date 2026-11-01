@@ -1,71 +1,16 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Fei Liang — Plant science meets open-source engineering" />
-</p>
+<p><img src="./assets/profile-hero.svg" width="100%" alt="Fei Liang — Plant science meets open-source engineering" /></p>
 
-<p align="center">
-  <a href="mailto:fyliangfei@163.com"><img alt="Email" src="https://img.shields.io/badge/CONTACT-Email-111827?style=flat-square&amp;logo=gmail&amp;logoColor=50E7DE" /></a>
-  <a href="https://anhuikylin.github.io/ProtVis-cookbook/"><img alt="ProtVis documentation" src="https://img.shields.io/badge/EXPLORE-ProtVis_Cookbook-111827?style=flat-square&amp;logo=readthedocs&amp;logoColor=B18AFF" /></a>
-</p>
-
-<p align="center"><b>植物科学 · 多组学分析 · 科研软件</b><br/>
-<sub>Connecting biological questions, reproducible analysis, and tools people can use.</sub></p>
-
----
-
-### 01 / ABOUT
-
-I'm **Fei Liang**, a plant science researcher at **Henan University**. I work at the intersection of maize genetics, multi-omics, and scientific software.
-
-My research interests include **stress adaptation** and **gene discovery**. I build open-source tools that turn complex biological data into interpretable results.
+<p><img src="./assets/about-tech.svg" width="100%" alt="Fei Liang, plant science researcher at Henan University. Stress adaptation and gene discovery." /></p>
 
 ### 02 / SELECTED WORK
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p><a href="https://github.com/anhuikylin/ProtVis"><img src="./assets/project-protvis.svg" width="100%" alt="ProtVis — Proteomics, connected." /></a></p>
 
-#### 🧬 [ProtVis](https://github.com/anhuikylin/ProtVis)
-**Proteomics, connected.**
+<p><a href="https://anhuikylin.github.io/ProtVis-cookbook/"><img src="./assets/project-cookbook.svg" width="100%" alt="ProtVis Cookbook — From first dataset to insight." /></a></p>
 
-An R Shiny platform bringing protein data processing, visualization, differential analysis, and biological interpretation into one workflow.
+<p><a href="https://github.com/anhuikylin/ProtVis-Omics"><img src="./assets/project-omics.svg" width="100%" alt="ProtVis-Omics — Biology across molecular layers." /></a></p>
 
-`R` · `Shiny` · `Proteomics`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📖 [ProtVis Cookbook](https://github.com/anhuikylin/ProtVis-cookbook)
-**From first dataset to insight.**
-
-Practical documentation and illustrated workflows for learning and using ProtVis.
-
-[Read the guide →](https://anhuikylin.github.io/ProtVis-cookbook/)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 🌿 [ProtVis-Omics](https://github.com/anhuikylin/ProtVis-Omics)
-**Biology across molecular layers.**
-
-Analysis scripts and research resources for transcriptomics and metabolomics in maize–teosinte comparisons.
-
-`Transcriptomics` · `Metabolomics`
-
-</td>
-
-</tr>
-</table>
-
-### 03 / RESEARCH COORDINATES
-
-| Biological questions | Computational approaches |
-| :--- | :--- |
-| Maize genetics & stress adaptation | GWAS, QTL & candidate-gene analysis |
-| Photosynthesis & gene regulation | Comparative genomics & expression analysis |
-| Maize–teosinte diversity | Transcriptome, proteome & metabolome integration |
-| Accessible scientific software | Interactive visualization & reproducible workflows |
+<p><img src="./assets/research-tech.svg" width="100%" alt="Research coordinates: maize genetics, gene regulation, multi-omics and scientific software." /></p>
 
 ### 04 / TOOLKIT
 
@@ -78,11 +23,6 @@ Analysis scripts and research resources for transcriptomics and metabolomics in 
 <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=B18AFF" />
 </p>
 
----
+<p><a href="mailto:fyliangfei@163.com"><img src="./assets/footer-tech.svg" width="100%" alt="Clear questions. Reproducible discoveries. Contact Fei Liang." /></a></p>
 
-<p align="center">
-<b>Open science. Clear questions. Reproducible discoveries.</b><br/>
-<sub>欢迎交流植物组学、科研软件与合作研究。</sub><br/><br/>
-<a href="mailto:fyliangfei@163.com">Email</a> &nbsp; / &nbsp;
-<a href="https://github.com/anhuikylin?tab=repositories">Repositories</a>
-</p>
+<p align="center"><a href="mailto:fyliangfei@163.com">Email</a> &nbsp; / &nbsp; <a href="https://github.com/anhuikylin?tab=repositories">Repositories</a></p>
