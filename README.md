@@ -60,26 +60,21 @@ Analysis scripts and research resources for transcriptomics and metabolomics in 
 
 ### 03 / RESEARCH COORDINATES
 
-| Biological questions | Computational approaches |
-| :--- | :--- |
-| Maize genetics & stress adaptation | GWAS, QTL & candidate-gene analysis |
-| Photosynthesis & gene regulation | Comparative genomics & expression analysis |
-| Maize–teosinte diversity | Transcriptome, proteome & metabolome integration |
-| Accessible scientific software | Interactive visualization & reproducible workflows |
+<table width="100%">
+<thead>
+<tr><th width="50%" align="left">Biological questions<img src="./assets/full-width-spacer.svg" width="600" height="1" alt="" /></th><th width="50%" align="left">Computational approaches<img src="./assets/full-width-spacer.svg" width="600" height="1" alt="" /></th></tr>
+</thead>
+<tbody>
+<tr><td>Maize genetics &amp; stress adaptation</td><td>GWAS, QTL &amp; candidate-gene analysis</td></tr>
+<tr><td>Photosynthesis &amp; gene regulation</td><td>Comparative genomics &amp; expression analysis</td></tr>
+<tr><td>Maize–teosinte diversity</td><td>Transcriptome, proteome &amp; metabolome integration</td></tr>
+<tr><td>Accessible scientific software</td><td>Interactive visualization &amp; reproducible workflows</td></tr>
+</tbody>
+</table>
 
 ### 04 / TOOLKIT
 
-<p>
-<img alt="R" src="https://img.shields.io/badge/R-111827?style=for-the-badge&amp;logo=r&amp;logoColor=50E7DE" />
-<img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&amp;logo=python&amp;logoColor=B18AFF" />
-<img alt="Java" src="https://img.shields.io/badge/Java-111827?style=for-the-badge&amp;logo=openjdk&amp;logoColor=50E7DE" />
-<img alt="HTML" src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&amp;logo=html5&amp;logoColor=50E7DE" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&amp;logo=css&amp;logoColor=B18AFF" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&amp;logo=javascript&amp;logoColor=50E7DE" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=B18AFF" />
-<img alt="Shiny" src="https://img.shields.io/badge/Shiny-111827?style=for-the-badge&amp;logo=r&amp;logoColor=50E7DE" />
-<img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=B18AFF" />
-</p>
+<p><img src="./assets/toolkit-aligned.svg" width="100%" alt="R · Python · Java · HTML · CSS · JavaScript · Linux · Shiny · Git" /></p>
 
 ---
 
