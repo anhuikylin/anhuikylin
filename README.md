@@ -73,6 +73,9 @@ Analysis scripts and research resources for transcriptomics and metabolomics in 
 <img alt="R" src="https://img.shields.io/badge/R-111827?style=for-the-badge&amp;logo=r&amp;logoColor=50E7DE" />
 <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&amp;logo=python&amp;logoColor=B18AFF" />
 <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=for-the-badge&amp;logo=openjdk&amp;logoColor=50E7DE" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&amp;logo=html5&amp;logoColor=50E7DE" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&amp;logo=css&amp;logoColor=B18AFF" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&amp;logo=javascript&amp;logoColor=50E7DE" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=B18AFF" />
 <img alt="Shiny" src="https://img.shields.io/badge/Shiny-111827?style=for-the-badge&amp;logo=r&amp;logoColor=50E7DE" />
 <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=B18AFF" />
